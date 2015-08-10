@@ -1,0 +1,1 @@
+The software converts RDF to OWL. Planned are integration with SPARQL, creation of a repository of relational patterns for RDF and application to verification of Linked Open Data.
